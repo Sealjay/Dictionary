@@ -1,8 +1,13 @@
 ## Scope
 
-```
-Define as it relates to Green Software Foundation (GSF) Activity. If it adds clarity, define what is not in the scope. DELETE THIS COMMENT 
-```
+The purpose of this document is to identify specific technical terms (definitions and abbreviations) used within the GSF specifications. Having a common collection of definitions and abbreviations related to the GSF documents will;
+- Ensure that the terminology is used in a consistent manner across GSF documents
+- Provide the reader a friendly tool explaining the technical terms that are used across multiple documents
+- Help the editors in using the terminology in a consistent manner across GSF specifications.
+
+The definitions and abbreviations as given in this document are
+- created by the GSF working groups or sub-groups, when the need for precise definition is identified, or
+- imported from existing documentation (e.g. ITU, 3GPP, 3GPP2)
 
 ## References
 ### Normative References
@@ -65,92 +70,150 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 ### Definitions
 
-```
-Add definitions in new rows of the following table as needed. The following examples show how dictionary references should be made as well as locally defined terms. This table should be maintained in sorted alphabetic order based on the labels of the terms.
-
-Examples:
-	Entity              Use definition #1 from [GSFDICT]
-	Interactive Service Use definition from [GSFDICT]
-	Local Term          The definition description would be presented directly
-
-DELETE THIS COMMENT
-```
 <table>
   <caption>Definitions</caption>
   <tbody>
-  <tr>
-	  <td><strong>Term</strong></td>
-	  <td>Definition</td>
-	  <td>source</td>
-  </tr>
-  <tr>
-	  <td><strong>Add here</strong></td>
-	  <td>Add here</td>
-	  <td>Add here</td>
-  </tr>
- 
-</tbody>
+    <tr>
+	<td><strong>Committee Team</strong></td>
+	<td>A group chartered by the Steering Committee to perform specific support tasks</td>
+    </tr>
+    <tr>
+	<td><strong>Editor(s)</strong></td>
+	<td>A member of a Working Group that is responsible to edit and maintain a document.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Epic</strong></td>
+	<td>It is a component inside of a Work Package. It could be a feature, customer request or business requirement.</td>
+    </tr>
+    <tr>
+	<td><strong>e-Vote</strong></td>
+	<td>Electronic Vote.</td>
+    </tr>
+    <tr>
+	<td><strong>Issue(s)</strong></td>
+	<td>An important topic or problem for debate or discussion. Normally, in GSF Issues are tracked in Github.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Maintainer</strong></td>
+	<td>A member of the Working Group or GSF staff support that performs maintenance tasks on behalf of the Working Group or Organization.</td>
+    </tr>
+    <tr>
+	<td><strong>Member(s)</strong></td>
+	<td>A person that belongs to a company that has signed GSF Membership Agreement and Charter(s) and have access to GSF resources.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Membership Agreement</strong></td>
+	<td>A legal document that provides legal information about rights and obligations of being a member company of GSF.</td>
+    </tr>
+    <tr>
+	<td><strong>Chairs</strong></td>
+	<td>GSF member that has been selected by the Working Group as a coordinator for the Working Group activities.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Project Charter</strong></td>
+	<td>A legal document that describes the GSF Project.</td>
+    </tr>
+    <tr>
+	<td><strong>Pull Request</strong></td>
+	<td>It indicates what changes are suggested to a branch in a repository on GitHub.</td>
+    </tr>
+    <tr>
+	<td><strong>Release</strong></td>
+	<td>It is the distribution of the final version of a document or application.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Review & Approval</strong></td>
+	<td>A special process that is used to convey agreement or disagreement on a topic. </td>
+    </tr>
+    <tr>
+	<td><strong>Semantic Versioning</strong></td>
+	<td>It is a versioning scheme to convey backwards or not backwards compatibility of a release.</td>
+    </tr>
+    <tr>
+	<td><strong>Source Code</strong></td>
+	<td>A text listing of commands to be compiled or assembled into an executable computer program.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Specification(s)</strong></td>
+	<td>An act of describing or identifying something precisely or of stating a precise requirement.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Steering Committee</strong></td>
+	<td>A committee that decides on the priorities or order of business on GSF. </td>
+    </tr>
+    <tr>
+	<td><strong>Supermajority Vote</strong></td>
+	<td><i>Extracted from GSF 5.0.1 Member Agreement</i> means an affirmative vote of no less than 3/4 of Steering Members or Working Group Participants, as applicable, that have attended/participated in at least 50% of the last 4 meetings of the group conducting the vote, where each Steering Member or Working Group Participant will receive only 1 vote regardless of how many individuals from that party participate. To ensure the group is capable of making decisions, the voting requirement for attendance/participation of at least 50% of the last 4 meetings shall be waived if there have not yet been 4 meetings.
+</td>
+    </tr>
+    <tr>
+	<td><strong>Working Group</strong></td>
+	<td>It is a group of experts working together to achieve predefined objectives. The group formalize its objectives and goals in a formal document, the Working Group Charter.</td>
+    </tr>
+    <tr>
+	<td><strong>Working Group Chair</strong></td>
+	<td>A person selected by the Working Group which primary role is to facilitate consensus-building among the group members.</td>
+    </tr>	  
+    <tr>
+	<td><strong>Working Group Charter</strong></td>
+	<td>A document that contains the scope, objectives, and goals of a particular group. </td>
+    </tr>
+    <tr>
+	<td><strong>Work Package</strong></td>
+	<td>It is a group of related tasks within a project. Each Work Package can be broken down into one or more Epics.</td>
+    </tr>	  
+  </tbody>
 </table>
+
 
 ### Abbreviations
 
-```
-Add abbreviations as needed. No special notation should be made regarding terms copied from the Dictionary.  
-The list should be maintained in alphabetic order. DELETE This Row
-```
 
 <table>
 <caption>Definitions</caption>
 <tbody>
-  <tr>
+    <tr>
+    <td>CWG</td>
+    <td>Community Working Group</td>
+   </tr>
+    <tr>
     <td>GSF</td>
     <td>Green Software Foundation</td>
+   </tr>
+    <tr>
+    <td>IPR</td>
+    <td>Intellectual Property Rights</td>
   </tr>
+   <tr>
+    <td>IWG</td>
+    <td>Innovation Working Group</td>
+   </tr>
+   <tr>
+    <td>PR</td>
+    <td>Pull Request</td>
+  </tr>
+   <tr>
+    <td>SC</td>
+    <td>Steering Committee</td>
+  </tr>
+   <tr>
+    <td>SWG</td>
+    <td>Standards Working Group</td>
+   </tr>
+   <tr>
+    <td>SUP</td>
+    <td>Supporting Document</td>
+  </tr>	
+   <tr>
+    <td>TS</td>
+    <td>Technical Specification</td>
+  </tr>
+    <tr>
+    <td>TWG</td>
+    <td>Trademark Working Group</td>
+   </tr>
+   <tr>
+    <td>WG</td>
+    <td>Working Group(s)</td>
+   </tr>	
 </tbody>
-</table>
-
-
-## Introduction
-
-```
-From a market perspective...  
-
-* What can you do with this specification?
-* What problem does this solve?
-* How can this specification be applied?
-* Consider the target audience and provide deployment examples as possible.
-
-DELETE THIS COMMENT
-```
-
-### Version 1.0
-
-```
-This section provides a high level, concise and informative description of the main functionality supported in 
-the initial version of the specification. The description should be brief, target length should be a few paragraphs. 
-When the enabler or reference release is finished, this description should be aligned with the final functionality. 
-
-DELETE THIS COMMENT
-```
-
-## Appendix Change History (Informative)
-
-### Approved Version x.y History
-
-<table>
-    <caption>Approved Version x.y History</caption>
-    <thead>
-        <tr>
-            <th>Reference</th>
-            <th>Date</th>
-            <th>Description</th>
-        </tr>
-    </thead>
-    <tbody>    
-        <tr>
-            <td>n/a</td>
-            <td>n/a</td>
-            <td>No prior version</td>
-        </tr>
-    </tbody>
-</table>
