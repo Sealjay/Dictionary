@@ -43,9 +43,6 @@ DELETE THIS COMMENT
   </tbody>
 </table>
 
-```
-Add/Remove reference rows as needed - DELETE This Row 
-```
 
 ### Informative References
 
@@ -59,9 +56,6 @@ Add/Remove reference rows as needed - DELETE This Row
   </tbody>
 </table>
 
-```
-Add/Remove references as needed - DELETE This Row
-```
 
 ## Terminology and Conventions
 ### Conventions
