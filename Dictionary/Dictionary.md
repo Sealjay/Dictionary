@@ -73,9 +73,25 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 <table>
   <caption>Definitions</caption>
   <tbody>
+     <tr>
+	<td><strong>Approved Deliverable</strong></td>
+	<td>The final version and contents of any Draft Deliverable approved as an Approved Deliverable as set forth in the Applicable Working Group Charter</td>
+    </tr>
+     <tr>
+	<td><strong>Chairs</strong></td>
+	<td>GSF member that has been selected by the Working Group as a coordinator for the Working Group activities.</td>
+    </tr>	
     <tr>
 	<td><strong>Committee Team</strong></td>
 	<td>A group chartered by the Steering Committee to perform specific support tasks</td>
+    </tr>
+    <tr>
+	<td><strong>Contribution</strong></td>
+	<td>Any material, including any modifications or additions to an existing work, that the Steering Member, General Member, or Contributor submits for inclusion in the Draft Deliverable or Approved Deliverable, which is included in the Draft Deliverable or Approved Deliverable.  For the purposes of this definition, “submit” means any form of electronic, oral, or written communication for the purpose of discussing and improving the Draft Deliverable or Approved Deliverable, but excluding communication that the Steering Member, General Member, or Contributor conspicuously designate in writing as not a contribution.</td>
+    </tr>
+    <tr>
+	<td><strong>Draft Deliverable</strong></td>
+	<td>All versions of the material (except an Approved Deliverable) developed by a Working Group for the purpose of creating, commenting on, revising, updating, modifying, or adding to any document that is to be considered for inclusion in the Approved Deliverable. </td>
     </tr>
     <tr>
 	<td><strong>Editor(s)</strong></td>
@@ -104,11 +120,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Membership Agreement</strong></td>
 	<td>A legal document that provides legal information about rights and obligations of being a member company of GSF.</td>
-    </tr>
-    <tr>
-	<td><strong>Chairs</strong></td>
-	<td>GSF member that has been selected by the Working Group as a coordinator for the Working Group activities.</td>
-    </tr>	  
+    </tr> 
     <tr>
 	<td><strong>Project Charter</strong></td>
 	<td>A legal document that describes the GSF Project.</td>
@@ -124,6 +136,10 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Review & Approval</strong></td>
 	<td>A special process that is used to convey agreement or disagreement on a topic. </td>
+    </tr>
+    <tr>
+	<td><strong>Scope</strong></td>
+	<td>A description of the deliverables that a given Working Group will develop as established by the Working Group in accordance with the that Working Group’s Charter.</td>
     </tr>
     <tr>
 	<td><strong>Semantic Versioning</strong></td>
@@ -145,6 +161,10 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 	<td><strong>Supermajority Vote</strong></td>
 	<td><i>Extracted from GSF 5.0.1 Member Agreement</i> means an affirmative vote of no less than 3/4 of Steering Members or Working Group Participants, as applicable, that have attended/participated in at least 50% of the last 4 meetings of the group conducting the vote, where each Steering Member or Working Group Participant will receive only 1 vote regardless of how many individuals from that party participate. To ensure the group is capable of making decisions, the voting requirement for attendance/participation of at least 50% of the last 4 meetings shall be waived if there have not yet been 4 meetings.
 </td>
+    </tr>
+    <tr>
+	<td><strong>Working Group Approval</strong></td>
+	<td>Once a Working Group believes it has achieved the objectives for its deliverable as described in the Scope, it will progress its Draft Deliverable to “Working Group Approved” status.</td>
     </tr>
     <tr>
 	<td><strong>Working Group</strong></td>
@@ -189,8 +209,20 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <td>Innovation Working Group</td>
    </tr>
    <tr>
+    <td>OWF</td>
+    <td>Open Web Foundation</td>
+  </tr>
+   <tr>
+    <td>PPO</td>
+    <td>Patent Policy Options</td>
+  </tr>
+   <tr>
     <td>PR</td>
     <td>Pull Request</td>
+  </tr>
+  <tr>
+    <td>RAND</td>
+    <td>Reasonable and Non-Discriminatory</td>
   </tr>
    <tr>
     <td>SC</td>
