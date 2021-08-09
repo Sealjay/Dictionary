@@ -8,3 +8,19 @@ The purpose of this document is to identify specific technical terms (definition
 
 The definitions and abbreviations as given in this document are
 - Created by the GSF working groups or sub-groups, when the need for precise definition is identified
+> Document Owner - Standards Working Group
+
+## Collaborating With the WG
+
+1. Create a [new Issue](https://github.com/Green-Software-Foundation/Dictionary/issues/new)
+2. Discuss Issue with WG --> Create PR if required
+3. PR to be submitted against the **DEV feature branch**
+4. PR discussed with the WG. If agreed, the WG Chair will merge into **DEV Feature branch**
+ 
+<figure>
+	<img src="images/single-trunk-branch.svg" alt="GSF Single-Trunk Based Branch Flow">
+	<figcaption></figcaption>
+</figure>
+
+## Help
+helpdesk@greensoftware.io
