@@ -16,15 +16,15 @@ The definitions and abbreviations as given in this document are
 The policy for reference lists is:
 1. GSF documents listed should have at least one approved version – draft-only docs should not be referenced.
 Exception exists for documents that will be approved with or after the referenced doc is approved (may be part of same enabler package). In short – approved docs should not reference unapproved docs.
-2. When a reference is made to an GSF specification, then Green Software Foundation™ with the TM symbol (™) should 
+2. When a reference is made to an GSF specification, then Green Software Foundation™ with the TM symbol (™) should
 be used in the description.
 3. The name + version (no date) for GSF specifications are generally sufficient – dates should be used only if there is a specific reason to limit the usage.
 4. References to other affiliate docs should similarly provide sufficient information to uniquely determine the needed document and should provide the appropriate source information.
 5. The URL for GSF material (new GSF and affiliate) should always be http://www.[add link].
-    
+
 Models to use:
-	[REFLABEL]	<General Model> "Ref Title", Ref information (source, date, id), URL:http//<ref-source>/ 
-	[GSFDOC]	<GSF Model> "GSF Document Title",{ Version x.y,}Green Software Foundation™, GSF <docname>{    <version>}, URL:[ADD HERE] 
+	[REFLABEL]	<General Model> "Ref Title", Ref information (source, date, id), URL:http//<ref-source>/
+	[GSFDOC]	<GSF Model> "GSF Document Title",{ Version x.y,}Green Software Foundation™, GSF <docname>{    <version>}, URL:[ADD HERE]
 If there are no entries in the table – enter ‘none’ to be clear.
 
 DELETE THIS COMMENT
@@ -44,7 +44,7 @@ DELETE THIS COMMENT
 </table>
 
 ```
-Add/Remove reference rows as needed - DELETE This Row 
+Add/Remove reference rows as needed - DELETE This Row
 ```
 
 ### Informative References
@@ -74,13 +74,21 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
   <caption>Definitions</caption>
   <tbody>
     <tr>
+	<td><strong>Action</strong></td>
+	<td>An explicit outcome taken, or change avoided, depending on the quantifiable emissions measured by the SCI specification. Actions will generally relate to using less electricity, use electricity more intelligently, or use less hardware.</td>
+    </tr>
+    <tr>
+	<td><strong>Agent</strong></td>
+	<td>A person or thing who is empowered to take an <em>action</em>, or avoid an <em>action</em> depending on their <em>degree of freedom</em> and <em>ability to act</em>.</td>
+    </tr>
+    <tr>
 	<td><strong>Committee Team</strong></td>
 	<td>A group chartered by the Steering Committee to perform specific support tasks</td>
     </tr>
     <tr>
 	<td><strong>Editor(s)</strong></td>
 	<td>A member of a Working Group that is responsible to edit and maintain a document.</td>
-    </tr>	  
+    </tr>
     <tr>
 	<td><strong>Epic</strong></td>
 	<td>It is a component inside of a Work Package. It could be a feature, customer request or business requirement.</td>
@@ -92,7 +100,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Issue(s)</strong></td>
 	<td>An important topic or problem for debate or discussion. Normally, in GSF Issues are tracked in Github.</td>
-    </tr>	  
+    </tr>
     <tr>
 	<td><strong>Maintainer</strong></td>
 	<td>A member of the Working Group or GSF staff support that performs maintenance tasks on behalf of the Working Group or Organization.</td>
@@ -100,7 +108,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Member(s)</strong></td>
 	<td>A person that belongs to a company that has signed GSF Membership Agreement and Charter(s) and have access to GSF resources.</td>
-    </tr>	  
+    </tr>
     <tr>
 	<td><strong>Membership Agreement</strong></td>
 	<td>A legal document that provides legal information about rights and obligations of being a member company of GSF.</td>
@@ -108,7 +116,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Chairs</strong></td>
 	<td>GSF member that has been selected by the Working Group as a coordinator for the Working Group activities.</td>
-    </tr>	  
+    </tr>
     <tr>
 	<td><strong>Project Charter</strong></td>
 	<td>A legal document that describes the GSF Project.</td>
@@ -120,7 +128,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Release</strong></td>
 	<td>It is the distribution of the final version of a document or application.</td>
-    </tr>	  
+    </tr>
     <tr>
 	<td><strong>Review & Approval</strong></td>
 	<td>A special process that is used to convey agreement or disagreement on a topic. </td>
@@ -132,11 +140,11 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Source Code</strong></td>
 	<td>A text listing of commands to be compiled or assembled into an executable computer program.</td>
-    </tr>	  
+    </tr>
     <tr>
 	<td><strong>Specification(s)</strong></td>
 	<td>An act of describing or identifying something precisely or of stating a precise requirement.</td>
-    </tr>	  
+    </tr>
     <tr>
 	<td><strong>Steering Committee</strong></td>
 	<td>A committee that decides on the priorities or order of business on GSF. </td>
@@ -153,7 +161,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Working Group Chair</strong></td>
 	<td>A person selected by the Working Group which primary role is to facilitate consensus-building among the group members.</td>
-    </tr>	  
+    </tr>
     <tr>
 	<td><strong>Working Group Charter</strong></td>
 	<td>A document that contains the scope, objectives, and goals of a particular group. </td>
@@ -161,7 +169,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Work Package</strong></td>
 	<td>It is a group of related tasks within a project. Each Work Package can be broken down into one or more Epics.</td>
-    </tr>	  
+    </tr>
   </tbody>
 </table>
 
@@ -197,13 +205,17 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <td>Steering Committee</td>
   </tr>
    <tr>
+    <td>SCI</td>
+    <td>Software Carbon Intensity</td>
+  </tr>
+   <tr>
     <td>SWG</td>
     <td>Standards Working Group</td>
    </tr>
    <tr>
     <td>SUP</td>
     <td>Supporting Document</td>
-  </tr>	
+  </tr>
    <tr>
     <td>TS</td>
     <td>Technical Specification</td>
@@ -215,5 +227,5 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
    <tr>
     <td>WG</td>
     <td>Working Group(s)</td>
-   </tr>	
+   </tr>
 </tbody>
