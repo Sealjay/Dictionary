@@ -73,6 +73,10 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 <table>
   <caption>Definitions</caption>
   <tbody>
+        <tr>
+	<td><strong>Ability to Act</strong></td>
+	<td>The posession of means or skills by an <em>agent</em> has to take an <em>action</em>, which may vary depending on technical aptitude, influence over the software development lifecycle, or control over the hardware selection process.</td>
+    </tr>
     <tr>
 	<td><strong>Action</strong></td>
 	<td>An explicit outcome taken, or change avoided, depending on the quantifiable emissions measured by the SCI specification. Actions will generally relate to using less electricity, use electricity more intelligently, or use less hardware.</td>
@@ -84,6 +88,10 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
     <tr>
 	<td><strong>Committee Team</strong></td>
 	<td>A group chartered by the Steering Committee to perform specific support tasks</td>
+      <tr>
+	<td><strong>Degree of Freedom</strong></td>
+	<td>The amount of freedom that an <em>agent</em> has to take an <em>action</em>, which may vary depending on factors including time, management, and control over the software.</td>
+    </tr>
     </tr>
     <tr>
 	<td><strong>Editor(s)</strong></td>
