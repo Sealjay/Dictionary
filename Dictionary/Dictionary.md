@@ -82,6 +82,10 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 	<td>An explicit outcome taken, or change avoided, depending on the quantifiable emissions measured by the SCI specification. Actions will generally relate to using less electricity, use electricity more intelligently, or use less hardware.</td>
     </tr>
     <tr>
+	<td><strong>Activity</strong></td>
+	<td>The operations being instrumented or measured in order to quantify the total carbon emissions of software within the SCI specification.</td>
+    </tr>
+    <tr>
 	<td><strong>Agent</strong></td>
 	<td>A person or thing who is empowered to take an <em>action</em>, or avoid an <em>action</em> depending on their <em>degree of freedom</em> and <em>ability to act</em>.</td>
     </tr>
