@@ -9,6 +9,8 @@ The definitions and abbreviations as given in this document are
 - created by the GSF working groups or sub-groups, when the need for precise definition is identified, or
 - imported from existing documentation (e.g. ITU, 3GPP, 3GPP2)
 
+<br>
+
 ## References
 ### Normative References
 
@@ -29,191 +31,77 @@ If there are no entries in the table – enter ‘none’ to be clear.
 
 DELETE THIS COMMENT
 ```
-<table>
-  <caption>Normative References </caption>
-  <tbody>
-    <tr>
-      <td><strong>[RFC2119]</strong></td>
-      <td>"Key words for use in RFCs to Indicate Requirement Levels", S. Bradner, March 1997, URL:http://www.ietf.org/rfc/rfc2119.txt</td>
-    </tr>
-    <tr>
-      <td><strong>[RFC5234]</strong></td>
-      <td>"Augmented BNF for Syntax Specifications: ABNF", D. Crocker, Ed., P. Overell, Janury 2008, URL: https://tools.ietf.org/rfc/rfc5234.txt</td>
-    </tr>
-  </tbody>
-</table>
+
+| Normative References |    |
+| :------------- | :---------- | 
+|  **[RFC2119]** | "Key words for use in RFCs to Indicate Requirement Levels", S. Bradner, March 1997, URL:http://www.ietf.org/rfc/rfc2119.txt   |
+|  **[RFC5234]** | "Augmented BNF for Syntax Specifications: ABNF", D. Crocker, Ed., P. Overell, Janury 2008, URL: https://tools.ietf.org/rfc/rfc5234.txt   |
 
 ```
 Add/Remove reference rows as needed - DELETE This Row 
 ```
 
+
 ### Informative References
 
-<table>
-  <caption>Informative References </caption>
-  <tbody>
-    <tr>
-      <td><strong>[GSFDICT]</strong></td>
-      <td>"Dictionary for GSF Specifications", Version x.y, Green Software Foundation™, GSF-ORG-Dictionary-Vx_y: https://greensoftware.foundation
-    </tr>
-  </tbody>
-</table>
+|Informative References |    |
+| :------------- | :---------- | 
+|  **[GSFDICT]** | "Dictionary for GSF Specifications", Version x.y, Green Software Foundation™, GSF-ORG-Dictionary-Vx_y: https://greensoftware.foundation   |
 
 ```
 Add/Remove references as needed - DELETE This Row
 ```
+<br>
 
 ## Terminology and Conventions
 ### Conventions
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC2119].
 
+
+
 ### Definitions
 
-<table>
-  <caption>Definitions</caption>
-  <tbody>
-    <tr>
-	<td><strong>Committee Team</strong></td>
-	<td>A group chartered by the Steering Committee to perform specific support tasks</td>
-    </tr>
-    <tr>
-	<td><strong>Editor(s)</strong></td>
-	<td>A member of a Working Group that is responsible to edit and maintain a document.</td>
-    </tr>	  
-    <tr>
-	<td><strong>Epic</strong></td>
-	<td>It is a component inside of a Work Package. It could be a feature, customer request or business requirement.</td>
-    </tr>
-    <tr>
-	<td><strong>e-Vote</strong></td>
-	<td>Electronic Vote.</td>
-    </tr>
-    <tr>
-	<td><strong>Issue(s)</strong></td>
-	<td>An important topic or problem for debate or discussion. Normally, in GSF Issues are tracked in Github.</td>
-    </tr>	  
-    <tr>
-	<td><strong>Maintainer</strong></td>
-	<td>A member of the Working Group or GSF staff support that performs maintenance tasks on behalf of the Working Group or Organization.</td>
-    </tr>
-    <tr>
-	<td><strong>Member(s)</strong></td>
-	<td>A person that belongs to a company that has signed GSF Membership Agreement and Charter(s) and have access to GSF resources.</td>
-    </tr>	  
-    <tr>
-	<td><strong>Membership Agreement</strong></td>
-	<td>A legal document that provides legal information about rights and obligations of being a member company of GSF.</td>
-    </tr>
-    <tr>
-	<td><strong>Chairs</strong></td>
-	<td>GSF member that has been selected by the Working Group as a coordinator for the Working Group activities.</td>
-    </tr>	  
-    <tr>
-	<td><strong>Project Charter</strong></td>
-	<td>A legal document that describes the GSF Project.</td>
-    </tr>
-    <tr>
-	<td><strong>Pull Request</strong></td>
-	<td>It indicates what changes are suggested to a branch in a repository on GitHub.</td>
-    </tr>
-    <tr>
-	<td><strong>Release</strong></td>
-	<td>It is the distribution of the final version of a document or application.</td>
-    </tr>	  
-    <tr>
-	<td><strong>Review & Approval</strong></td>
-	<td>A special process that is used to convey agreement or disagreement on a topic. </td>
-    </tr>
-    <tr>
-	<td><strong>Semantic Versioning</strong></td>
-	<td>It is a versioning scheme to convey backwards or not backwards compatibility of a release.</td>
-    </tr>
-    <tr>
-	<td><strong>Source Code</strong></td>
-	<td>A text listing of commands to be compiled or assembled into an executable computer program.</td>
-    </tr>	  
-    <tr>
-	<td><strong>Specification(s)</strong></td>
-	<td>An act of describing or identifying something precisely or of stating a precise requirement.</td>
-    </tr>	  
-    <tr>
-	<td><strong>Steering Committee</strong></td>
-	<td>A committee that decides on the priorities or order of business on GSF. </td>
-    </tr>
-    <tr>
-	<td><strong>Supermajority Vote</strong></td>
-	<td><i>Extracted from GSF 5.0.1 Member Agreement</i> means an affirmative vote of no less than 3/4 of Steering Members or Working Group Participants, as applicable, that have attended/participated in at least 50% of the last 4 meetings of the group conducting the vote, where each Steering Member or Working Group Participant will receive only 1 vote regardless of how many individuals from that party participate. To ensure the group is capable of making decisions, the voting requirement for attendance/participation of at least 50% of the last 4 meetings shall be waived if there have not yet been 4 meetings.
-</td>
-    </tr>
-    <tr>
-	<td><strong>Working Group</strong></td>
-	<td>It is a group of experts working together to achieve predefined objectives. The group formalize its objectives and goals in a formal document, the Working Group Charter.</td>
-    </tr>
-    <tr>
-	<td><strong>Working Group Chair</strong></td>
-	<td>A person selected by the Working Group which primary role is to facilitate consensus-building among the group members.</td>
-    </tr>	  
-    <tr>
-	<td><strong>Working Group Charter</strong></td>
-	<td>A document that contains the scope, objectives, and goals of a particular group. </td>
-    </tr>
-    <tr>
-	<td><strong>Work Package</strong></td>
-	<td>It is a group of related tasks within a project. Each Work Package can be broken down into one or more Epics.</td>
-    </tr>	  
-  </tbody>
-</table>
+| Term | Definition   |
+| :------------- | :---------- | 
+|  **Committee Team** | A group chartered by the Steering Committee to perform specific support tasks.   |
+| **Editor(s)**   | A member of a Working Group that is responsible to edit and maintain a document.|
+| **Epic**   | It is a component inside of a Work Package. It could be a feature, customer request or business requirement. | 
+| **e-Vote**   | Electronic Vote. | 
+| **Issue(s)**   | An important topic or problem for debate or discussion. Normally, in GSF Issues are tracked in Github. | 
+| **Maintainer**   | A member of the Working Group or GSF staff support that performs maintenance tasks on behalf of the Working Group or Organization. | 
+| **Member(s)**   | A person that belongs to a company that has signed GSF Membership Agreement and Charter(s) and have access to GSF resources. | 
+| **Membership Agreement**   | A legal document that provides legal information about rights and obligations of being a member company of GSF. | 
+| **Chairs**   | GSF member that has been selected by the Working Group as a coordinator for the Working Group activities. | 
+| **Project Charter**   | A legal document that describes the GSF Project. | 
+| **Pull Request**   | It indicates what changes are suggested to a branch in a repository on GitHub. | 
+| **Release**   | It is the distribution of the final version of a document or application. | 
+| **Review & Approval**   | A special process that is used to convey agreement or disagreement on a topic. | 
+| **Semantic Versioning**   | It is a versioning scheme to convey backwards or not backwards compatibility of a release. | 
+| **Source Code**   | A text listing of commands to be compiled or assembled into an executable computer program. | 
+| **Specification(s)**   | An act of describing or identifying something precisely or of stating a precise requirement. | 
+| **Steering Committee**   | A committee that decides on the priorities or order of business on GSF. | 
+| **Supermajority Vote**   | Extracted from GSF 5.0.1 Member Agreement means an affirmative vote of no less than 3/4 of Steering Members or Working Group Participants, as applicable, that have attended/participated in at least 50% of the last 4 meetings of the group conducting the vote, where each Steering Member or Working Group Participant will receive only 1 vote regardless of how many individuals from that party participate. To ensure the group is capable of making decisions, the voting requirement for attendance/participation of at least 50% of the last 4 meetings shall be waived if there have not yet been 4 meetings. | 
+| **Working Group**   | It is a group of experts working together to achieve predefined objectives. The group formalize its objectives and goals in a formal document, the Working Group Charter. | 
+| **Working Group Chair**   | A person selected by the Working Group which primary role is to facilitate consensus-building among the group members. | 
+| **Working Group Charter**   | A document that contains the scope, objectives, and goals of a particular group. | 
+| **Work Package**   | It is a group of related tasks within a project. Each Work Package can be broken down into one or more Epics.| 
+
 
 
 ### Abbreviations
 
+| Abbreviation | Definition    |
+| :------------- | :---------- | 
+| **CWG**   | Community Working Group | 
+| **GSF**   | Green Software Foundation | 
+| **IPR**   | Intellectual Property Rights | 
+| **IWG**   | Innovation Working Group | 
+| **PR**   | Pull Request | 
+| **SC**   | Steering Committee | 
+| **SWG**   | Standards Working Group | 
+| **SUP**   | Supporting Document | 
+| **TS**   | Technical Specification | 
+| **TWG**   | Trademark Working Group | 
+| **WG**   | 	Working Group(s) | 
 
-<table>
-<caption>Definitions</caption>
-<tbody>
-    <tr>
-    <td>CWG</td>
-    <td>Community Working Group</td>
-   </tr>
-    <tr>
-    <td>GSF</td>
-    <td>Green Software Foundation</td>
-   </tr>
-    <tr>
-    <td>IPR</td>
-    <td>Intellectual Property Rights</td>
-  </tr>
-   <tr>
-    <td>IWG</td>
-    <td>Innovation Working Group</td>
-   </tr>
-   <tr>
-    <td>PR</td>
-    <td>Pull Request</td>
-  </tr>
-   <tr>
-    <td>SC</td>
-    <td>Steering Committee</td>
-  </tr>
-   <tr>
-    <td>SWG</td>
-    <td>Standards Working Group</td>
-   </tr>
-   <tr>
-    <td>SUP</td>
-    <td>Supporting Document</td>
-  </tr>	
-   <tr>
-    <td>TS</td>
-    <td>Technical Specification</td>
-  </tr>
-    <tr>
-    <td>TWG</td>
-    <td>Trademark Working Group</td>
-   </tr>
-   <tr>
-    <td>WG</td>
-    <td>Working Group(s)</td>
-   </tr>	
-</tbody>
