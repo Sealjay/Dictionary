@@ -64,6 +64,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 | Term | Definition   |
 | :------------- | :---------- | 
+| **Carbon counterfactual** | The carbon delta value had the carbon-aware action been different. | 
 |  **Committee Team** | A group chartered by the Steering Committee to perform specific support tasks.   |
 | **Editor(s)**   | A member of a Working Group that is responsible to edit and maintain a document.|
 | **Epic**   | It is a component inside of a Work Package. It could be a feature, customer request or business requirement. | 
