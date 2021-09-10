@@ -64,6 +64,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 | Term | Definition   |
 | :------------- | :---------- | 
+| **Carbon proxy** | Any metric that substitutes in for actual carbon emissions to aid in the measurement of the carbon impact of an entity (e.g. dollar cost of running software in the cloud, run duration of an ML job, etc.) |
 |  **Committee Team** | A group chartered by the Steering Committee to perform specific support tasks.   |
 | **Editor(s)**   | A member of a Working Group that is responsible to edit and maintain a document.|
 | **Epic**   | It is a component inside of a Work Package. It could be a feature, customer request or business requirement. | 
