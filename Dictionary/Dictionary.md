@@ -63,7 +63,8 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 ### Definitions
 
 | Term | Definition   |
-| :------------- | :---------- |
+| :------------- | :---------- | 
+| **Carbon counterfactual** | The carbon delta value had the carbon-aware action been different. | 
 | **Carbon transparency** | An entity is said to be carbon-transparent when details about the carbon emissions from its lifecycle are made available to empower the user of that entity to make an informed decision. |
 |  **Committee Team** | A group chartered by the Steering Committee to perform specific support tasks.   |
 | **Editor(s)**   | A member of a Working Group that is responsible to edit and maintain a document.|
