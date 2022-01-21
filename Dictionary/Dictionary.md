@@ -14,32 +14,11 @@ The definitions and abbreviations as given in this document are
 ## References
 ### Normative References
 
-```
-The policy for reference lists is:
-1. GSF documents listed should have at least one approved version – draft-only docs should not be referenced.
-Exception exists for documents that will be approved with or after the referenced doc is approved (may be part of same enabler package). In short – approved docs should not reference unapproved docs.
-2. When a reference is made to an GSF specification, then Green Software Foundation™ with the TM symbol (™) should
-be used in the description.
-3. The name + version (no date) for GSF specifications are generally sufficient – dates should be used only if there is a specific reason to limit the usage.
-4. References to other affiliate docs should similarly provide sufficient information to uniquely determine the needed document and should provide the appropriate source information.
-5. The URL for GSF material (new GSF and affiliate) should always be http://www.[add link].
-
-Models to use:
-	[REFLABEL]	<General Model> "Ref Title", Ref information (source, date, id), URL:http//<ref-source>/
-	[GSFDOC]	<GSF Model> "GSF Document Title",{ Version x.y,}Green Software Foundation™, GSF <docname>{    <version>}, URL:[ADD HERE]
-If there are no entries in the table – enter ‘none’ to be clear.
-
-DELETE THIS COMMENT
-```
 
 | Normative References |                                                                                                                                        |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
 | **[RFC2119]**        | "Key words for use in RFCs to Indicate Requirement Levels", S. Bradner, March 1997, URL:http://www.ietf.org/rfc/rfc2119.txt            |
 | **[RFC5234]**        | "Augmented BNF for Syntax Specifications: ABNF", D. Crocker, Ed., P. Overell, Janury 2008, URL: https://tools.ietf.org/rfc/rfc5234.txt |
-
-```
-Add/Remove reference rows as needed - DELETE This Row
-```
 
 
 ### Informative References
@@ -57,7 +36,6 @@ Add/Remove references as needed - DELETE This Row
 ### Conventions
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC2119].
-
 
 
 ### Definitions
@@ -99,20 +77,27 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 | **e-Vote**                | Electronic Vote.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
-
 ### Abbreviations
 
-| Abbreviation | Definition                   |
-| :----------- | :--------------------------- |
-| **CWG**      | Community Working Group      |
-| **GSF**      | Green Software Foundation    |
-| **IPR**      | Intellectual Property Rights |
-| **IWG**      | Innovation Working Group     |
-| **PR**       | Pull Request                 |
-| **SC**       | Steering Committee           |
-| **SCI**      | Software Carbon Intensity    |
-| **SUP**      | Supporting Document          |
-| **SWG**      | Standards Working Group      |
-| **TS**       | Technical Specification      |
-| **TWG**      | Trademark Working Group      |
-| **WG**       | Working Group(s)             |
+| Abbreviation | Definition    |
+| :------------- | :---------- |
+| **CER**   | Certified Emission Reduction |
+| **CWG**   | Community Working Group |
+| **EACs**  | Electricity Attribute Certificates  |
+| **EL**    | Expected Lifespan |
+| **ERU**   | Emission Reduction Unit |
+| **GSF**   | Green Software Foundation |
+| **IPR**   | Intellectual Property Rights |
+| **IWG**   | Innovation Working Group |
+| **PPA**   | Power Purchase Agreement |
+| **PR**    | Pull Request |
+| **REC**   | Renewable Energy Credit  |
+| **RR**    | Resources Reserved  |
+| **SC**    | Steering Committee |
+| **SWG**   | Standards Working Group |
+| **SUP**   | Supporting Document |
+| **TE**    | Total Embodied Emissions |
+| **TR**    | Time Reserved |
+| **TS**    | Technical Specification |
+| **TWG**   | Trademark Working Group |
+| **WG**    | 	Working Group(s) |
